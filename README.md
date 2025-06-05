@@ -13,12 +13,14 @@ This repository contains automated end-to-end tests using [Playwright](https://p
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/peterssonz/Engenious-task.git
+cd engenious-task
 yarn install
 ```
 
 ## 🏃🏻‍♂️ How to run tests
 
-in `playwright` folder, run all the tests:
-`npx playwright test`
+```bash
+cd playwright
+npx playwright test
+```
